@@ -71,7 +71,4 @@ class ProductsController < ApplicationController
     def product_params
       params.require(:product).permit(:name, :description, :image_url, :color)
     end
-    def change
-      rename_column :products, :color, :colour
-  end
 end
