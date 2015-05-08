@@ -24,7 +24,7 @@ Rails.application.configure do
   # Disable serving static files from the `/public` folder by default since
   # Apache or NGINX already handles this.
   config.serve_static_files = ENV['RAILS_SERVE_STATIC_FILES'].present?
-=======
+
   # For large-scale production use, consider using a caching reverse proxy like nginx, varnish or squid.
   # config.action_dispatch.rack_cache = true
 
@@ -45,13 +45,13 @@ Rails.application.configure do
   # `config.assets.precompile` and `config.assets.version` have moved to config/initializers/assets.rb
 
   # Specifies the header that your server uses for sending files.
-<<<<<<< HEAD
+
   config.action_dispatch.x_sendfile_header = 'X-Sendfile' # for Apache
   #config.action_dispatch.x_sendfile_header = 'X-Accel-Redirect' # for NGINX
-=======
+
   # config.action_dispatch.x_sendfile_header = "X-Sendfile" # for apache
   config.action_dispatch.x_sendfile_header = 'X-Accel-Redirect' # for nginx
->>>>>>> 5c6cee4e85dfea20e6e1472d3207fb900931ccc0
+  5c6cee4e85dfea20e6e1472d3207fb900931ccc0
 
   # Force all access to the app over SSL, use Strict-Transport-Security, and use secure cookies.
   # config.force_ssl = true
