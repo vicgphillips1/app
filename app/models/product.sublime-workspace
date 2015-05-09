@@ -1,0 +1,232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vicphillips/Desktop/programming/code/special/gemfile",
+		"/Users/vicphillips/Desktop/bportbuild/index.html",
+		"/Users/vicphillips/Desktop/bportbuild/bportbuild",
+		"/Users/vicphillips/Desktop/programming/code/special/app/controllers/orders",
+		"/Users/vicphillips/Desktop/programming/code/code",
+		"/Users/vicphillips/Desktop/programming/code/special/special",
+		"/Users/vicphillips/Desktop/programming/code/special/app/app",
+		"/Users/vicphillips/Desktop/programming/code/special/app/controllers/products_controller",
+		"/Users/vicphillips/Desktop/programming/code/special/app/controllers/controllers",
+		"/Users/vicphillips/Desktop/programming/code/special/views/_form.html.erb",
+		"/Users/vicphillips/Desktop/initializr/css/main.css",
+		"/Users/vicphillips/Desktop/code/special/special",
+		"/Users/vicphillips/Desktop/code/special/app/app",
+		"/Users/vicphillips/Desktop/code/special/db/development.sqlite3",
+		"/Users/vicphillips/Desktop/code/special/gemfile",
+		"/Users/vicphillips/Desktop/code/special/app/views/layouts/application.html.erb",
+		"/Users/vicphillips/Desktop/images/background.jpg",
+		"/Users/vicphillips/Desktop/code/app/app/assets/images/background.jpg",
+		"/Users/vicphillips/Desktop/code/app/app/assets/stylesheets/static_pages.scss",
+		"/Users/vicphillips/Desktop/code/app/app/views/static_pages/contact.html.erb",
+		"/Users/vicphillips/config/routes.rb",
+		"/Users/vicphillips/Desktop/initializr/index.html",
+		"/Users/vicphillips/Desktop/scroller/css/main.css",
+		"/Users/vicphillips/rounding-numbers.js",
+		"/Users/vicphillips/numbers.js",
+		"/Users/vicphillips/Desktop/code/app",
+		"/Users/vicphillips/Desktop/code/pets.rb",
+		"/Users/vicphillips/test.css",
+		"/Users/vicphillips/test.scss",
+		"/Users/vicphillips/revising-strings.js",
+		"/Users/vicphillips/string-length.js",
+		"/Users/vicphillips/string.js",
+		"/Users/vicphillips/variable.js",
+		"/Users/vicphillips/Desktop/programming/Forkio/index.html",
+		"/Users/vicphillips/Desktop/select.html",
+		"/Users/vicphillips/javascripting/introduction.js",
+		"/Users/vicphillips/Desktop/styles.css",
+		"/Users/vicphillips/Desktop/code/cat.rb",
+		"/Users/vicphillips/Desktop/style.css",
+		"/Users/vicphillips/Desktop/boot.html",
+		"/Users/vicphillips/Desktop/programming/LandingSumo-20-Landing-Pages/Themes/Theme 20/assets/css/style.css",
+		"/Users/vicphillips/sketching/reset.css",
+		"/Users/vicphillips/sketching/index.html",
+		"/Users/vicphillips/Desktop/code/fav_foods.rb",
+		"/Users/vicphillips/Desktop/code/program4.rb",
+		"/Users/vicphillips/Desktop/fav_foods.rb",
+		"/Users/vicphillips/Desktop/program4.rb",
+		"/Users/vicphillips/Desktop/program3.rb",
+		"/Users/vicphillips/Desktop/program2.rb",
+		"/Users/vicphillips/Desktop/touch",
+		"/Users/vicphillips/Desktop/program.rb",
+		"/Users/vicphillips/Desktop/cfproject/js/scripts.js",
+		"/Users/vicphillips/Desktop/cfproject/contact.html",
+		"/Users/vicphillips/Desktop/cfproject/css/styles.css",
+		"/Users/vicphillips/Desktop/cfproject/mixture.json",
+		"/Users/vicphillips/Desktop/cfproject/faq.html",
+		"/Users/vicphillips/Desktop/cfproject/cfproject",
+		"/Users/vicphillips/cfproject",
+		"/Users/vicphillips/Desktop/cfproject/js/bootstrap.min.js",
+		"/Users/vicphillips/Desktop/cfproject/js/script.js",
+		"/Users/vicphillips/Desktop/cfproject/work.html",
+		"/Users/vicphillips/Desktop/cfproject/about.html",
+		"/Users/vicphillips/Desktop/cfproject/index.html",
+		"/Users/vicphillips/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "product.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

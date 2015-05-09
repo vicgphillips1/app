@@ -16,7 +16,7 @@ Rails.application.configure do
 
   # Enable Rack::Cache to put a simple HTTP cache in front of your application
   # Add `rack-cache` to your Gemfile before enabling this.
-<<<<<<< HEAD
+
   # For large-scale production use, consider using a caching reverse proxy like
   # NGINX, varnish or squid.
   config.action_dispatch.rack_cache = true
@@ -29,7 +29,7 @@ Rails.application.configure do
   # config.action_dispatch.rack_cache = true
 
   # Disable Rails's static asset server (Apache or nginx will already do this).
->>>>>>> 5c6cee4e85dfea20e6e1472d3207fb900931ccc0
+
   config.serve_static_assets = true
 
   # Compress JavaScripts and CSS.

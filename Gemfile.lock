@@ -76,8 +76,6 @@ GEM
       mini_portile (~> 0.6.0)
     pg (0.18.1)
     rack (1.6.0)
-    rack-cache (1.2)
-      rack (>= 0.4)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.1)
@@ -155,7 +153,6 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   pg
-  rack-cache
   rails (= 4.2.1)
   rails_12factor
   sass-rails (~> 5.0)
