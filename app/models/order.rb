@@ -3,7 +3,3 @@ class Order < ActiveRecord::Base
 
 end
 
-class Product < ActiveRecord::Base
-  has_many :orders
-
-end
