@@ -1,7 +1,5 @@
 class Product < ActiveRecord::Base
-
-	class Product < ActiveRecord::Base
-  has_many :orders
+	belongs_to :product
 
 end
 
