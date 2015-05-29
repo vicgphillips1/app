@@ -1,10 +1,10 @@
 class UserMailer < ActionMailer::Base
-  default from: "from@example.com"
+  default from: "vicgphillips1@gmail.com"
 
   def contact_form(email, name, message)
 	@message = message
   	mail(:from => email, 
-	  		:to => 'your-email@example.com', 
+	  		:to => 'vicgphillips1@gmail.com', 
 	  		:subject => "A new contact form message from #{name}")
   end
 end
