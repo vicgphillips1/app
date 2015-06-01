@@ -1,21 +1,23 @@
-
 class StaticPagesController < ApplicationController
-  def landing_page
-    @products = Product.limit(3)
+  def index
   end
 
-  def thank_you
+  def landing_page
+    @products = Product.limit(4)
+  end
+
+def thank_you
+  @name = params[:name]
+  @email = params[:email]
+  @message = params[:message]
+  ActionMailer::Base.mail(:from => @email, :to => 'vicgphillips1@gmail.com', :subject => ' #@name sent you a message, man!', :body => @message).deliver
+end
+
+def thank_you
   @name = params[:name]
   @email = params[:email]
   @message = params[:message]
   UserMailer.contact_form(@email, @name, @message).deliver
-  ActionMailer::Base.mail(:from => @email, 
-      :to => 'vicgphillips1@gmail.com', 
-      :subject => "A new contact form message from #{@name}", 
-      :body => @message).deliver
-  end
-
-  def index
-  end
 end
 
+end
